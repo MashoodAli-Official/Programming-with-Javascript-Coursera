@@ -28,6 +28,8 @@
 <ul>
 <li>01 Functions</li>
 <li>02 Arrays</li>
+<li>03 Object (Dot Notation)</li>
+<li>04 Object (Bracket Notation)</li>
 </ul>
 
 ## Exercises 
