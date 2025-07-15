@@ -30,6 +30,10 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>02 Arrays</li>
 <li>03 Object (Dot Notation)</li>
 <li>04 Object (Bracket Notation)</li>
+<li>05 Array are object</li>
+<li>06 Math object cheat sheet</li>
+<li></li>
+
 </ul>
 
 ## Exercises 
