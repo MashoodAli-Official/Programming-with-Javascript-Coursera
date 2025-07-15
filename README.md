@@ -1,5 +1,5 @@
 # Programming-with-Javascript-Coursera
-
+A simple code practice while completing the Programming with JavaScript course on Coursera. 
 ## Module 1
 <ul>
   <li>01 Variables Declaration</li>
