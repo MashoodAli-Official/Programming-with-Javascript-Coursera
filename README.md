@@ -1,24 +1,36 @@
 # Programming-with-Javascript-Coursera
 
 ## Module 1
-01 Variables Declaration 
-02 Data-types
-03 Operators 
-04 Numbers 
-05 String
-06 Boolean
-07 Conditional statements
-    07-01 If-else statement
-    07-02 If-else-if statement
-    07-03 Switch statement
-08 Loops
-    08-01 For-loop
-    08-02 While-loop
-    08-03 Nested loop
+<ul>
+  <li>01 Variables Declaration</li>
+  <li>02 Data-types</li>
+  <li>03 Operators</li>
+  <li>04 Numbers</li>
+  <li>05 String</li>
+  <li>06 Boolean</li>
+  <li>07 Conditional statements
+    <ul>
+      <li>07-01 If-else statement</li>
+      <li>07-02 If-else-if statement</li>
+      <li>07-03 Switch statement</li>
+    </ul>
+  </li>
+  <li>08 Loops
+    <ul>
+      <li>08-01 For-loop</li>
+      <li>08-02 While-loop</li>
+      <li>08-03 Nested loop</li>
+    </ul>
+  </li>
+</ul>
 
 ## Module 2
-01 Functions
-
+<ul>
+<li>01 Functions</li>
+<li>02 Arrays</li>
+</ul>
 
 ## Exercises 
-01 For-loop and if-else exercise
+<ul>
+<li>01 For-loop and if-else exercise</li>
+</ul>
