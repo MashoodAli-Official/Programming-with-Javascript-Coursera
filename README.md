@@ -35,7 +35,7 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>07 Strings</li>
 <li>08 String Methods</li>
 <li>09 Object Methods</li>
-<li></li>
+<li>10 typeOf Operator</li>
 </ul>
 
 ## Exercises 
