@@ -32,8 +32,9 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>04 Object (Bracket Notation)</li>
 <li>05 Array are object</li>
 <li>06 Math object cheat sheet</li>
+<li>07 Strings</li>
+<li>08 String Methods</li>
 <li></li>
-
 </ul>
 
 ## Exercises 
