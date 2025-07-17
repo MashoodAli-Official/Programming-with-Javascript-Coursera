@@ -36,9 +36,11 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>08 String Methods</li>
 <li>09 Object Methods</li>
 <li>10 typeOf Operator</li>
+<li>11 Error Handling</li>
   <ul>
-    <li>11 Error Handling</li>
-    <li>01 Types of Error in JavaScript</li>
+    <li>01 Types of Error in JavadScript</li>
+    <li>02 Try catch blocks</li>
+    <li></li>
   </ul>
 </ul>
 
