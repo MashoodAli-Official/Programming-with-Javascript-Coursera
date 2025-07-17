@@ -38,10 +38,11 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>10 typeOf Operator</li>
 <li>11 Error Handling</li>
   <ul>
-    <li>01 Types of Error in JavadScript</li>
+    <li>01 Types of Error in JavaScript</li>
     <li>02 Try catch blocks</li>
     <li></li>
   </ul>
+<li>12 Undefined, null and empty values in JavaScript</li>
 </ul>
 
 ## Exercises 
