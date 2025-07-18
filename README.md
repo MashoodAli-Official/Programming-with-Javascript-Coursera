@@ -45,6 +45,11 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>12 Undefined, null and empty values in JavaScript</li>
 </ul>
 
+## Module 3
+<ul>
+<li>01 Introduction to Functional Programming</li>
+<li></li>
+</ul>
 ## Exercises 
 <ul>
 <li>01 For-loop and if-else exercise</li>
