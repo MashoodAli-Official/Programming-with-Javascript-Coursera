@@ -48,6 +48,7 @@ A simple code practice while completing the Programming with JavaScript course o
 ## Module 3
 <ul>
 <li>01 Introduction to Functional Programming</li>
+<li>02 Function calling and recursion</li>
 <li></li>
 </ul>
 ## Exercises 
