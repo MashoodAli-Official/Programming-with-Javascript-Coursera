@@ -55,4 +55,5 @@ A simple code practice while completing the Programming with JavaScript course o
 <ul>
 <li>01 For-loop and if-else exercise</li>
 <li>02 Creating Arrays and Object</li>
+<li>03 Recursive Fibonacci</li>
 </ul>
