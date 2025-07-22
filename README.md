@@ -50,6 +50,7 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>01 Introduction to Functional Programming</li>
 <li>02 Function calling and recursion</li>
 <li>03 Scope in JavaScript</li>
+<li>04 Var Scope in JavaScript</li>
 <li></li>
 </ul>
 
@@ -58,4 +59,5 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>01 For-loop and if-else exercise</li>
 <li>02 Creating Arrays and Object</li>
 <li>03 Recursive Fibonacci</li>
+
 </ul>
