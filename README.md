@@ -50,7 +50,9 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>01 Introduction to Functional Programming</li>
 <li>02 Function calling and recursion</li>
 <li>03 Scope in JavaScript</li>
-<li>04 Var Scope in JavaScript</li>
+<li>04 Var scope in JavaScript</li>
+<li>05 Let scope in JavaScript</li>
+<li>06 Const scope in JavaScript</li>
 <li></li>
 </ul>
 
