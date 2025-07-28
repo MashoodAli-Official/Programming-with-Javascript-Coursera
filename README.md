@@ -56,6 +56,7 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>07 Comparison between Var, Let and Const</li>
 <li>08 Introduction to Object Oriented Programming (OOP)</li>
 <li>09 Introduction to Class</li>
+<li>10 OOP principles</li>
 <li></li>
 </ul>
 
