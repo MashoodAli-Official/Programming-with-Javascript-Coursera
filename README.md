@@ -53,7 +53,9 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>04 Var scope in JavaScript</li>
 <li>05 Let scope in JavaScript</li>
 <li>06 Const scope in JavaScript</li>
-<li>07 Introduction to Object Oriented Programming (OOP)</li>
+<li>07 Comparison between Var, Let and Const</li>
+<li>08 Introduction to Object Oriented Programming (OOP)</li>
+<li>09 Introduction to Class</li>
 <li></li>
 </ul>
 
