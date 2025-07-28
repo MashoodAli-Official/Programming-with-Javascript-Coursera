@@ -65,4 +65,5 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>02 Creating Arrays and Object</li>
 <li>03 Recursive Fibonacci</li>
 <li>04 JavaScript Scope exercise</li>
+<li>05 Class exercise</li>
 </ul>
