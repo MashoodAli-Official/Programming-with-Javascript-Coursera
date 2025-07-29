@@ -57,6 +57,7 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>08 Introduction to Object Oriented Programming (OOP)</li>
 <li>09 Introduction to Class</li>
 <li>10 OOP principles</li>
+<li>11 Constructor In JavaScript</li>
 <li></li>
 </ul>
 
