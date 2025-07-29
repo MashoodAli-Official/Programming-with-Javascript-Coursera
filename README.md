@@ -69,4 +69,5 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>03 Recursive Fibonacci</li>
 <li>04 JavaScript Scope exercise</li>
 <li>05 Class exercise</li>
+<li>06 Designing OOP program in JavaScript</li>
 </ul>
