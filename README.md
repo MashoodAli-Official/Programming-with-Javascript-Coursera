@@ -58,6 +58,7 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>09 Introduction to Class</li>
 <li>10 OOP principles</li>
 <li>11 Constructor In JavaScript</li>
+<li>12 Inheritance in JavaScript</li>
 <li></li>
 </ul>
 
