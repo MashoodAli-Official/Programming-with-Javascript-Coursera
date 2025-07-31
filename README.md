@@ -60,6 +60,7 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>11 Constructor In JavaScript</li>
 <li>12 Inheritance in JavaScript</li>
 <li>13 De-structuring Array and Object</li>
+<li>14 Template literals</li>
 <li></li>
 </ul>
 
