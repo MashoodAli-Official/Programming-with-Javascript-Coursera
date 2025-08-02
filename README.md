@@ -62,7 +62,7 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>13 De-structuring Array and Object</li>
 <li>14 Template literals</li>
 <li>15 Data Structure in JavaScript</li>
-<li></li>
+<li>16 Spread Operator</li>
 </ul>
 
 ## Exercises 
