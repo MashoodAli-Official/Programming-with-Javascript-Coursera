@@ -63,6 +63,7 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>14 Template literals</li>
 <li>15 Data Structure in JavaScript</li>
 <li>16 Spread Operator</li>
+<li>17 Rest operator</li>
 </ul>
 
 ## Exercises 
