@@ -64,6 +64,8 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>15 Data Structure in JavaScript</li>
 <li>16 Spread Operator</li>
 <li>17 Rest operator</li>
+<li>18 Modules in JavaScript</li>
+<li>19 DOM(Document Object Model) in JavaScript</li>
 </ul>
 
 ## Exercises 
