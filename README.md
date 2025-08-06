@@ -66,6 +66,7 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>17 Rest operator</li>
 <li>18 Modules in JavaScript</li>
 <li>19 DOM(Document Object Model) in JavaScript</li>
+<li>20 Event Handling in JavaScript</li>
 </ul>
 
 ## Exercises 
