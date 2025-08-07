@@ -69,6 +69,13 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>20 Event Handling in JavaScript</li>
 </ul>
 
+## Modules 4
+<ul>
+<li>01 Testing in JavaScript</li>
+<li>02 Types of Testing </li>
+<li>03 Jest Introduction</li>
+</ul>
+
 ## Exercises 
 <ul>
 <li>01 For-loop and if-else exercise</li>
