@@ -74,6 +74,7 @@ A simple code practice while completing the Programming with JavaScript course o
 <li>01 Testing in JavaScript</li>
 <li>02 Types of Testing </li>
 <li>03 Jest Introduction</li>
+<li>04 TDD Test Driven Development</li>
 </ul>
 
 ## Exercises 
